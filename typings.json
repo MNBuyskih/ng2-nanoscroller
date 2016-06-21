@@ -1,0 +1,7 @@
+{
+  "name": "ng2-nanoscroller",
+  "dependencies": {},
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160620094458"
+  }
+}
