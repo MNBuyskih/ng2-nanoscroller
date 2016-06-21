@@ -20,3 +20,5 @@ In template
     <div [nanoContent]></div>
 </div>
 ```
+
+Do not forgive include jquery.js and nanoscroller.js into your index.html
