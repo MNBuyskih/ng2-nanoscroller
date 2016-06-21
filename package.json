@@ -1,0 +1,18 @@
+{
+  "name": "ng2-nanoscroller",
+  "version": "1.0.0",
+  "description": "Nanoscroller wrapper for angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MNBuyskih",
+  "license": "ISC",
+  "repository": {
+    "git": "git@github.com:MNBuyskih/ng2-nanoscroller.git"
+  },
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "nanoscroller": "^0.8.7"
+  }
+}
